@@ -1,0 +1,15 @@
+p {
+  color: teal;
+}
+
+a:hover {
+  color: red;
+}
+
+h1 {
+  font-size: 5em;
+}
+
+body>ul>li {
+  display: inline-block;
+}
